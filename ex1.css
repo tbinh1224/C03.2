@@ -1,0 +1,19 @@
+.text{
+    width: 60%;
+    
+}
+h1{
+    color: tomato;
+    font-size: 36px;
+
+}
+h2{
+    color: dodgerblue;
+}
+.heading{
+    text-align: center;
+}
+#logokmin{
+    position: static;
+    
+}

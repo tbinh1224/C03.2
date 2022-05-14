@@ -1,0 +1,28 @@
+#navbar{
+    background-color: #3c3939;
+    padding: 20px;
+    font-size: 36px;
+    padding-left: 0;
+    padding-bottom: 20px;
+
+}
+a {
+    color: white;
+    margin-right: 15px;
+    text-decoration-line: none;
+    
+}
+#a1:hover {
+     background-color: dodgerblue;
+     padding: 20px;
+     padding-left: 0;
+}
+.a6:hover{
+    background-color: tomato;
+    padding: 20px;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
