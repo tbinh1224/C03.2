@@ -1,5 +1,6 @@
 .text{
     width: 60%;
+    position: relative;
     
 }
 h1{
@@ -14,6 +15,12 @@ h2{
     text-align: center;
 }
 #logokmin{
-    position: static;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%)
     
+
 }
