@@ -14,15 +14,21 @@ a {
 }
 #a1:hover {
      background-color: dodgerblue;
-     padding: 20px;
-     padding-left: 0;
+     
+     
 }
 .a6:hover{
     background-color: tomato;
-    padding: 20px;
+
+    
     
 }
 body{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+.a6, #a1{
+padding: 20px;
+
 }

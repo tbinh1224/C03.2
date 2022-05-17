@@ -19,12 +19,12 @@ h1{
 }
 body{
     background-image: url(./img/cover.jpg);
-    background-size: 1500px 300px ;
+    background-size: 1300px 250px ;
     background-repeat: no-repeat;
 }
 .avarta{
     position: absolute ;
-    top: -20px;
+    top: -100px;
     left: 100px;
 }
 .cover{

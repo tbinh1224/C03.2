@@ -6,7 +6,5 @@ body{
 }
 .box-default{
     background-color: aqua;
-    padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 50px;
 }
