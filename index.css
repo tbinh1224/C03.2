@@ -12,12 +12,13 @@ a {
     text-decoration-line: none;
     
 }
-#a1:hover {
+a:active {
      background-color: dodgerblue;
+
      
      
 }
-.a6:hover{
+a:hover{
     background-color: tomato;
 
     
